@@ -25,7 +25,3 @@ def read_root():
         "BoysHostelMenu": final_menu
     }
 
-
-
-if __name__ == "__main__":
-    uvicorn.run(app, host="localhost", port=8080)
