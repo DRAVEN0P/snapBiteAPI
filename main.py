@@ -1,6 +1,6 @@
 from fastapi import FastAPI
-import mess_feb
-import uvicorn
+import menu.finalVegMess as mess_feb
+
 
 menu = mess_feb.menu
 
