@@ -59,6 +59,7 @@ day4 = DailyMeals(
 )
 day18 = cp.copy(day4)
 day18.id = 18
+day18.date = ["2024-02-18"]
 
 day5 = DailyMeals(
     id=5,
@@ -70,6 +71,7 @@ day5 = DailyMeals(
 )
 day19 = cp.copy(day5)
 day19.id = 19
+day19.date = ["2024-02-19"]
 
 day6 = DailyMeals(
     id=6,
@@ -81,6 +83,7 @@ day6 = DailyMeals(
 )
 day20 = cp.copy(day6)
 day20.id = 20
+day20.date = ["2024-02-20"]
 
 day7 = DailyMeals(
     id=7,
@@ -92,6 +95,7 @@ day7 = DailyMeals(
 )
 day21 = cp.copy(day7)
 day21.id = 21
+day21.date = ["2024-02-21"]
 
 day8 = DailyMeals(
     id=8,
@@ -103,6 +107,7 @@ day8 = DailyMeals(
 )
 day22 = cp.copy(day8)
 day22.id = 22
+day22.date = ["2024-02-22"]
 
 day9 = DailyMeals(
     id=9,
@@ -114,6 +119,7 @@ day9 = DailyMeals(
 )
 day23 = cp.copy(day9)
 day23.id = 23
+day23.date = ["2024-02-23"]
 
 day10 = DailyMeals(
     id=10,
@@ -125,6 +131,7 @@ day10 = DailyMeals(
 )
 day24 = cp.copy(day10)
 day24.id = 24
+day24.date = ["2024-02-24"]
 
 day11 = DailyMeals(
     id=11,
@@ -136,6 +143,7 @@ day11 = DailyMeals(
 )
 day25 = cp.copy(day11)
 day25.id = 25
+day25.date = ["2024-02-25"]
 
 day12 = DailyMeals(
     id=12,
@@ -147,6 +155,7 @@ day12 = DailyMeals(
 )
 day26 = cp.copy(day12)
 day26.id = 26
+day26.date = ["2024-02-26"]
 
 day13 = DailyMeals(
     id=13,
@@ -158,6 +167,7 @@ day13 = DailyMeals(
 )
 day27 = cp.copy(day13)
 day27.id = 27
+day27.date = ["2024-02-27"]
 
 day14 = DailyMeals(
     id=14,
@@ -169,6 +179,7 @@ day14 = DailyMeals(
 )
 day28 = cp.copy(day14)
 day28.id = 28
+day28.date = ["2024-02-28"]
 
 menu = [
     day1, day15, day29,
