@@ -66,4 +66,10 @@ def read_root():
         "BoysHostelMenu": final_special_menu
     }
 
+@app.get("/boys")
+def read_root():
+    return {
+        "BoysHostelMenu": [final_veg_menu,final_nonveg_menu,final_special_menu]
+    }
+
 
