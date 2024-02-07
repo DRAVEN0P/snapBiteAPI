@@ -76,7 +76,7 @@ def read_root():
 @app.get("/girls")
 def read_root():
     return {
-        "BoysHostelMenu": [final_girlsMenu,final_girlsMenu,final_special_menu]
+        "BoysHostelMenu": [final_girlsMenu,final_girlsMenu,final_girlsMenu]
     }
 
 
