@@ -98,8 +98,8 @@ day7 = DailyMeals (
     )
 
 day21 = cp.copy(day7)
-day21 = 21
-day21 =["2024-02-21"]
+day21.id = 21
+day21.date =["2024-02-21"]
 
 day8 = DailyMeals (
     id = 8,
@@ -111,8 +111,8 @@ day8 = DailyMeals (
     )
 
 day22 = cp.copy(day8)
-day22 = 22
-day22 = ["2024-02-22"]
+day22.id = 22
+day22.date = ["2024-02-22"]
 
 day9 = DailyMeals (
     id = 9,
@@ -124,8 +124,8 @@ day9 = DailyMeals (
     )
 
 day23 = cp.copy(day9)
-day23 = 23
-day23 = ["2024-02-23"]
+day23.id = 23
+day23.date = ["2024-02-23"]
 
 day10 = DailyMeals (
     id = 10,
@@ -136,8 +136,8 @@ day10 = DailyMeals (
     dinner=["Methi Chapathi", "Soya Chunks Gravy"," Schezwan fried rice","White Rice", "Sambar"," Rasam"," Loose Curd","Cabbage Peas poriyal","Mushroom Soup"," Fruit salad"," Ice cream"])
 
 day24 = cp.copy(day10)
-day24 = 24
-day24 = ["2024-02-24"]
+day24.id = 24
+day24.date = ["2024-02-24"]
 
 day11 = DailyMeals(
     id = 11,
@@ -149,8 +149,8 @@ day11 = DailyMeals(
     )
 
 day25 = cp.copy(day11)
-day25 = 25
-day25 = ["2024-02-25"]
+day25.id = 25
+day25.date = ["2024-02-25"]
 
 day12 = DailyMeals (
     id = 12,
@@ -161,8 +161,8 @@ day12 = DailyMeals (
     dinner=["Chole Bhatura","White Rice"," Sambar"," Rasam","Bottle Guard Sabji"," Curd rice","Veg Noodle Soup"," Seasonal Fruit"],)
 
 day26 = cp.copy(day12)
-day26 = 26
-day26 = ["2024-02-26"]
+day26.id = 26
+day26.date = ["2024-02-26"]
 
 day13 = DailyMeals (
     id = 13,
@@ -173,8 +173,8 @@ day13 = DailyMeals (
     dinner=["Wheat Roti"," Gobi Mattar masala","White Rice", "Sambar, Rasam"," Butter Milk","Veg : Manchurian Dry","Non Veg : Chicken 65 ","Hot and Sour Soup"," Water Melon"],)
 
 day27 = cp.copy(day13)
-day27 =27
-day27 = ["2024-02-27"]
+day27.id =27
+day27.date = ["2024-02-27"]
 
 day14 = DailyMeals (
     id = 14,
@@ -186,8 +186,8 @@ day14 = DailyMeals (
     )
 
 day28 = cp.copy(day14)
-day28 = 28
-day28 = ["2024-02-28"]
+day28.id = 28
+day28.date = ["2024-02-28"]
 
 
 menu = [

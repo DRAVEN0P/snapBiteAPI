@@ -89,10 +89,6 @@ for i in range(len(vegMenu)):
 
 
 
-
-
-
-
 app = FastAPI()
 
 @app.get("/boys")
