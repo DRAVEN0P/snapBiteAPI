@@ -1,6 +1,6 @@
 import copy as cp 
 class DailyMeals:
-    def _init_(self,id,date, breakfast, lunch, dinner,snacks):
+    def __init__(self,id,date, breakfast, lunch, dinner,snacks):
         self.id = id
         self.date = date
         self.breakfast = breakfast
