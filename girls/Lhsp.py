@@ -84,8 +84,9 @@ day6 = DailyMeals (
     dinner=["Phulka"," Mix veg curry"," Plain Dosai"," Kara Chutney","White Rice"," Sambar"," Rasam"," Loose Curd","Spring onion Soup"," Fruit salad"],)
 
 day20 = cp.copy(day6)
-day20 = 20
+day20.id = 20
 day20.date = ["2024-02-20"]
+
 
 day7 = DailyMeals (
     id = 7,
